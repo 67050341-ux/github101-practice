@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| สิรภัทร สุขเจริญ | Team 10 | Frontend | docs/evidence/example-student.md](https://github.com/parinya555/ai-posture-checker) | - |
+| สิรภัทร สุขเจริญ | Team 10 | Frontend | (https://github.com/parinya555/ai-posture-checker) | - |
 
 ---
 
